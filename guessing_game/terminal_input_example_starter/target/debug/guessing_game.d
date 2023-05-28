@@ -1,1 +1,0 @@
-D:\projects\twitter_group_projects\guessing_game\terminal_input_example_starter\target\debug\guessing_game.exe: D:\projects\twitter_group_projects\guessing_game\terminal_input_example_starter\src\main.rs
